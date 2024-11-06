@@ -1,0 +1,16 @@
+{
+  "url": "complete_entities",
+  "method": "post",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "data": {
+    "user_info": {
+      "邮箱": "test@test.com"
+    },
+    "key_vars": {
+      "投资标的": ["同花顺"],
+      "分析方法": ["基本面分析"]
+    }
+  }
+}
